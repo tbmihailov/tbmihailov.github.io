@@ -3,13 +3,127 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/authors/todor-mihaylov/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/todor-mihaylov&#43;/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication_types/1/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/brian-ohoro/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/daniel-simig/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2021-atetxeetal/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2021-linetal/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/giri-anantharaman/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/halil-akin/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/jeff-wang/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/jingfei-du/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/louis-martin/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/luke-zettlemoyer/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/mandeep-baines/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/mikel-artetxe/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/mikel-artetxe&#43;/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/mona-diab/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/myle-ott/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/myle-ott&#43;/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/naman-goyal/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/naman-goyal&#43;/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/punit-singh-koura/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/ramakanth-pasunuru/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/sam-shleifer/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/sam-shleifer&#43;/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/shruti-bhosale/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/shruti-bhosale&#43;/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/shuohui-chen/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/srinivasan-iyer/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/tianlu-wang/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/ves-stoyanov/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/veselin-stoyanov/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/vishrav-chaudhary/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/xi-victoria-lin/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/xian-li/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/xing-zhou/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/zornitsa-kozareva/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/dimitrina-zlatkova/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
@@ -24,15 +138,6 @@
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/preslav-nakov/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/yoan-dinkov/</loc>
@@ -90,9 +195,6 @@
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/2017-mihaylovetal-b/</loc>
-    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/zornitsa-kozareva/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/daniel-balchev/</loc>
